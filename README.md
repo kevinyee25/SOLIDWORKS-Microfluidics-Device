@@ -10,7 +10,7 @@ The project provided hands-on experience in **3D CAD modelling, parametric desig
 <p align="center"> <img width="500" alt="Screen Shot 2026-08-17 at 4 49 00 pm" src="https://github.com/user-attachments/assets/d8708c70-6c12-46ab-994a-28fd37c1eb91" />
 
 <p align="center">
-  📁 <a href="implant-on-chip_T12.sldprt">Final SOLIDWORKS model</a>
+  📁 <a href="Implant-on-chip_T12.sldprt">Final SOLIDWORKS model</a>
 </p>
 
 ---
